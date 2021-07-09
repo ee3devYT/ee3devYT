@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ee3devyt&label=Profile%20views&color=0e75b6&style=flat" alt="ee3devyt" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Social Media</h3>
 <p align="left">
 <a href="https://instagram.com/mainbot.js" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mainbot.js" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/e e 3 dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="
