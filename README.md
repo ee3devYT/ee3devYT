@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vedant Mhapsekar</h1>
 <h3 align="center">Learning frontend</h3>
-
-- 🔭 I’m currently working on [ClientLabs](https://clientlabs.xyz)
-
+<!-- - 🔭 I’m currently working on [ClientLabs](https://clientlabs.xyz) -->
 - 🌱 I’m currently learning **React.js**
 
 - 💬 Ask me about **Discordjs, python.**
