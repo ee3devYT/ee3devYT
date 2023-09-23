@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, my name is Vedant, and I'm a 16-year-old Indian developer who is skilled in node.js. I'm also learning react.js, and I like to build strange things, so if you have any suggestions, please let me know.
+Hello, my name is Vedant, and I'm a 18-year-old Indian developer who is skilled in node.js. I'm also learning react.js, and I like to build strange things, so if you have any suggestions, please let me know.
 
 
 ## 🌐 Socials:
