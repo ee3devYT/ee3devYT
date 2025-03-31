@@ -12,8 +12,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
 </p>
 
-<br>
-
 <h2 align="center">✨ About Me</h2>
 
 <p align="center">
@@ -21,8 +19,6 @@
   Tech, open-source, and problem-solving keep me hooked. Always up for a challenge and always learning.<br>
   Let's create something great.
 </p>
-
-<br>
 
 <h2 align="center">📫 Connect with Me</h2>
 
@@ -44,7 +40,6 @@
   </a>
 </p>
 
-<br>
 
 <h2 align="center">🚀 Tech Stack & Tools</h2>
 <br/>
